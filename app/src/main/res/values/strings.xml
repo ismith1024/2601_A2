@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">COMP2601_A2</string>
+    <string name="solve">SOLVE</string>
+    <string name="set_wall">SET WALL</string>
+    <string name="set_start">SET START</string>
+    <string name="set_end">SET END</string>
+    <string name="buttonTitle1">buttonr</string>
+    <string name="buttonTitle2">c</string>
+    <string name="id">id</string>
+    <string name="clear">CLEAR</string>
+    <string name="maze_solved">Maze solved!</string>
+    <string name="maze_not_solved">Cannot solve maze</string>
+    <string name="start_end_not_set">Set START and END before solving!</string>
+</resources>
